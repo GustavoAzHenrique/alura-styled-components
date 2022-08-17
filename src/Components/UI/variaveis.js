@@ -1,0 +1,3 @@
+export const corPrimaira = "#86A579";
+export const fundoClaro = "#f1f1f1";
+export const textoFundoClaro = "grey";
