@@ -26,6 +26,7 @@ const BtnCabecalho = styled.a`
   margin: 0 10px;
   font-weight: 600;
   border: 2px solid white;
+  color: black;
 
   background: ${(props) => (props.primary ? "#fff" : corPrimaira)};
   background: ${(props) => (props.primary ? corPrimaira : "#fff")};
